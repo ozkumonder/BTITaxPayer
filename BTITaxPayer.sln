@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTITaxPayer.WinService", "BTITaxPayer.WinService\BTITaxPayer.WinService.csproj", "{BCDC626E-1376-441A-96C7-E90A4B7803D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDC626E-1376-441A-96C7-E90A4B7803D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC626E-1376-441A-96C7-E90A4B7803D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC626E-1376-441A-96C7-E90A4B7803D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC626E-1376-441A-96C7-E90A4B7803D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B8FED97-FF17-485C-ADF9-84A21C302915}
+	EndGlobalSection
+EndGlobal
